@@ -116,3 +116,4 @@ If you still wanna use version 1.0.9 or below, you can find the README below:
 But I strongly suggest you to use the newest version.
 
 ## [What I'm Doing](http://huangweiping.me/)
+# BoomMenu
